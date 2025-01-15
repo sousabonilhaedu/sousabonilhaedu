@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">💬 Tenho 19 anos e atualmente moro no Brasil. Gosto muito de aprender novos idiomas, no momento tenho inglês intermediário e me aventuro pelo japonês. Não possuo experiencias mas continuo adquirindo conhecimentos por conta própria, estudando linguagens como Java e JavaScript, acredito que com esforço posso alcançar tudo o que desejo alcançar 💪.</p>
+<p align="left">💬 Tenho 20 anos e atualmente moro no Brasil. Gosto muito de aprender novos idiomas, no momento tenho inglês intermediário e me aventuro pelo japonês. Não possuo experiencias mas continuo adquirindo conhecimentos por conta própria, estudando linguagens como Java e JavaScript, acredito que com esforço posso alcançar tudo o que desejo alcançar 💪.</p>
 
 ###
 
